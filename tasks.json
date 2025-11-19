@@ -1,0 +1,46 @@
+[  {
+    "id": "399a419f-5b73-41c0-ac69-7b0facdd1f04",
+    "titulo": "Exercício físico",
+    "descricao": "Caminhada de 30 minutos",
+    "prazo": "2025-11-18",
+    "prioridade": "BAIXA",
+    "status": "EM_ANDAMENTO",
+    "projeto": "Saúde"
+  },
+  {
+    "id": "c7cf13ad-56e4-4f2d-8975-15b5be8b7fbf",
+    "titulo": "Enviar relatório",
+    "descricao": "Enviar relatório semanal por email",
+    "prazo": "2025-11-23",
+    "prioridade": "ALTA",
+    "status": "EM_ANDAMENTO",
+    "projeto": "Trabalho"
+  },
+  {
+    "id": "01cf050f-ee10-436c-be6a-7dc992ddf03b",
+    "titulo": "Backup",
+    "descricao": "Fazer backup dos arquivos importantes",
+    "prazo": "2025-11-24",
+    "prioridade": "MEDIA",
+    "status": "PENDENTE",
+    "projeto": "Casa"
+  },
+  {
+    "id": "ae46e1ae-4549-4f45-bdc8-00bc3b7edaa0",
+    "titulo": "Gerenciador",
+    "descricao": "Terminar trabalho de POO",
+    "prazo": "2025-11-19",
+    "prioridade": "ALTA",
+    "status": "EM_ANDAMENTO",
+    "projeto": "Trabalho Final"
+  },
+  {
+    "id": "550b321d-6139-4976-9b90-0278c59a3846",
+    "titulo": "Teste",
+    "descricao": "Apresentação do \nTrabalho Final",
+    "prazo": "2025-11-19",
+    "prioridade": "ALTA",
+    "status": "EM_ANDAMENTO",
+    "projeto": "teste"
+  }
+]
